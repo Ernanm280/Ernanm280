@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Ernanm280/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Ernanm280/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  Azure: Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Ernanm280/azure-network-protocols)
+  - [Azure: Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines)](https://github.com/Ernanm280/azure-setup)
+  - [Azure: Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Ernanm280/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 

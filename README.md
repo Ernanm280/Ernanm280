@@ -9,7 +9,10 @@
 - <b>Microsoft Azure</b>
   - [Azure: Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines)](https://github.com/Ernanm280/azure-setup)
   - [Azure: Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Ernanm280/azure-network-protocols)
-
+- <b>Active Directory</b>
+  - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/Ernanm280/preparing-ad-inf-azure)
+  - [Active Directory: Deploying Active Directory](https://github.com/Ernanm280/deploying-ad)
+  - [Active Directory: Managing Accounts and Use Cases/Examples](https://github.com/Ernanm280/ad-practice)
 <h2>🤳Connect with me:</h2>
 
 

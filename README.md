@@ -1,4 +1,4 @@
- <h1>Hi, I'm Hernan Marquez, an <a href="https://linkedin.com/in/hernan-marquez">IT Professional</a>☺</h1>
+ <h1>Hi, I'm Hernan Marquez, an <a href="https://linkedin.com/in/hernan-marquez">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
